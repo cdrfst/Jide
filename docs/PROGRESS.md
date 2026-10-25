@@ -14,6 +14,7 @@
 
 - 2026-10-26 实测并正式采用 OpenSpec 1.15.0（D-009），已在项目内初始化（`openspec/`、`.claude/skills`、`.claude/commands/opsx`）。
 - 2026-10-26 用中文写出第一个变更 `add-mvp-task-core`（task、repeat、reminder、smart-list 四份增量规格），`--strict` 校验通过。
+- 2026-10-26 推送到远程 `git@github.com:cdrfst/Jide.git`（main）。远程原有 GitHub 自动生成的初始提交，已合并引入 `LICENSE`，`README.md` 保留本地版本。
 
 ## 进行中
 
